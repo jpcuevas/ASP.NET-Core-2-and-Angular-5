@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/xiriusxx/328728db-fcac-4285-b4c8-62a5df695a46/4b85c40c-aadb-4f22-b82a-c26fe05c95fb/_apis/work/boardbadge/a721dbc8-fe9a-450d-a293-94c96205d588)](https://dev.azure.com/xiriusxx/328728db-fcac-4285-b4c8-62a5df695a46/_boards/board/t/4b85c40c-aadb-4f22-b82a-c26fe05c95fb/Microsoft.RequirementCategory)
 # ASP.NET Core 2 and Angular 5
 This is the code repository for [ASP.NET Core 2 and Angular 5](https://www.packtpub.com/application-development/aspnet-core-2-and-angular-5?utm_source=GitHub&utm_medium=repository&utm_campaign=9781788293600), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 
